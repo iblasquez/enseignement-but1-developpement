@@ -1,2 +1,79 @@
-# enseignement-but1-developpement
-Supports d'enseignement BUT 1 : Développement orienté objet (R2.01) et Qualité du développement (R2.02)
+#  Compétence 1 : Réaliser un developpement d'application  
+BUT1 : Développement Orienté Objet (R2.01) & Qualité (R2.03)
+---
+Support d'enseignement : bases de la conception orientée objet, bases de la programmation orientée objet avec Java, introduction à la notion de tests,...
+
+
+
+## Supports de cours
+
+### R2.01 : Support de cours relatifs à la programmation orientée objet avec java
+Les cours Java sont disponible sur Moodle à l'adresse suivante : ...
+
+
+### R2.01 : Support de cours relatifs à la conception orientée objet
+
+- [Introduction à la Modélisation par Objets : UML à la rescousse !](./cours/1_IntroductionModelisationObjet_UML.pdf)  
+- [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](./cours/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)  
+- ... la suite à venir ....
+ 
+
+
+### Compléments 
+
+* **_Cheatsheet_ sur la syntaxe UML** : [cheatsheet.pdf](./ressources/cheatsheet_UML_Lou_Franco.pdf)
+
+
+* **_UML@Classroom_** de Martina Seidl, Marion Scholz, Christian Huemer & Gerti Kappel  
+notamment la [rubrique Material(diapos additionelles)](http://www.uml.ac.at/en/lernen) du site web ressources [uml.ac.at](http://www.uml.ac.at)
+
+
+- **Prise en main d'outils pour la génération de diagrammes UML** :  
+Vous trouverez dans le dépôt [https://github.com/iblasquez/tuto_ModelisationUML](https://github.com/iblasquez/tuto_ModelisationUML), un ensemble de tutoriels et de liens autour d'outils permettant la génération de diagrammes UML.
+
+
+- **S'entraîner de manière ludique à modéliser à l'aide d'UML...**  
+[**UML PICTIONARY® : une phrase en un diagramme UML**](http://people.irisa.fr/Francois.Schwarzentruber/mit2_cvfp_2012/uml_pictionary_cards.zip)   (jeu créé par l'équipe de JM. Jezequel à l'IRISA Rennes)
+
+
+
+
+
+
+
+
+
+## Enoncés de TD
+
+- TD n° 1 : ... à venir ...
+<!-- - TD n° 1 : [Diagramme de classes](TD/NomTD.pdf) -->
+
+
+
+## Enoncés de TP
+
+- TP n° 1 : ... à venir ...
+<!-- - TP n° 1 : [Diagramme de classes](TP/NomTP.pdf) -->
+
+
+
+
+
+
+## On en discute ?
+Pour les discussions, c'est par [là](https://github.com/iblasquez/enseignement-but1-developpement/issues)  
+Pour les propositions de contenu, de modification par [ici](https://github.com/iblasquez/enseignement-but1-developpement/pulls)  
+Et bien sûr, n'hésitez pas à personnaliser vos messages avec des [emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :smile:
+
+Licence
+-------
+
+Tous ces supports sont placés sous licence CC BY-NC-SA :  [Creative Commons
+Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png" width="100">
+
+En savoir plus sur [les licences Creative Commons](https://creativecommons.org/licenses/?lang=fr-FR) ...
+
+Toutefois, toute personne enseignant au département Informatique de l'IUT du Limousin souhaitant utiliser ces documents doit demander une autorisation préalable :smile:
+
