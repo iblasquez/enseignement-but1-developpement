@@ -1,11 +1,18 @@
-#  Compétence 1 : Réaliser un developpement d'application  
+#  Réaliser un developpement d'application  
 BUT1 : Développement Orienté Objet (R2.01) & Qualité (R2.03)
 ---
 Support d'enseignement : bases de la conception orientée objet, bases de la programmation orientée objet avec Java, introduction à la notion de tests,...
 
 
+Dans ce dépôt, vous trouverez les rubriques suivantes :
 
-## Supports de cours
+- [Supports de cours](#cours)   
+- [Enoncés TD](#td)  
+- [Enoncés TP](#tp)
+- [Ressources complémentaires](#ressources)  
+
+
+## Supports de cours <a id="cours"></a>
 
 ### R2.01 : Support de cours relatifs à la programmation orientée objet avec java
 Les cours Java sont disponible sur Moodle à l'adresse suivante : ...
@@ -19,7 +26,35 @@ Les cours Java sont disponible sur Moodle à l'adresse suivante : ...
  
 
 
-### Compléments 
+
+
+
+## Enoncés de TD <a id="td"></a>
+
+- TD n° 1 : ... à venir ...
+<!-- - TD n° 1 : [Diagramme de classes](TD/NomTD.pdf) -->
+
+
+
+## Enoncés de TP <a id="tp"></a>
+
+
+- **Pré-requis** : **Installation d'un JDK dans votre environnement de développement**
+	- **Avez-vous une version du JDK d'installer sur votre machine ?**  
+Pour en savoir plus, regardez la vidéo suivante [Installer un poste de développement Java](https://www.youtube.com/watch?v=Kd8UC18rw6M)   
+Attention depuis juillet 2021, **adoptopenjdk.net** a migré vers [adoptium.net](https://adoptium.net).  
+Vous pouvez également récupérer des versions du jdk sur [jdk.java.net](https://jdk.java.net) (choisir Ready for use). 
+
+	- Que se passe-t-il si vous exécutez la commande "**java - version**" dans une invite de commande ?  
+La version du jdk qui a été paramétré dans votre variable d'environnement JAVA_HOME doit s'afficher. Si ce n'est pas le cas, rendez-vous [ici](https://github.com/iblasquez/Back2Basics_Developpement) et plus particulièrement le lien [wikiHow to Set Java Home](https://www.wikihow.com/Set-Java-Home).
+
+
+
+- TP n° 1 : ... à venir ...
+<!-- - TP n° 1 : [Diagramme de classes](TP/NomTP.pdf) -->
+
+
+## Ressources complémentaires <a id="ressources"></a>
 
 * **_Cheatsheet_ sur la syntaxe UML** : [cheatsheet.pdf](./ressources/cheatsheet_UML_Lou_Franco.pdf)
 
@@ -40,29 +75,6 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 [**T2 - Introduction à Java**](https://www.youtube.com/c/coursenlignejava/playlists?view=50&sort=dd&shelf_id=3),  
 [**T2 - Accès aux fichiers Java**](https://www.youtube.com/c/coursenlignejava/playlists?view=50&shelf_id=5)  
 [**API Collection**](https://www.youtube.com/playlist?list=PLzzeuFUy_CngUL4wcmpV4pmMJZnxUZt-_) - Attention il n'est pas prévu d'aborder les streams en BUT1 ;-)
-
-
-
-
-
-
-
-
-
-## Enoncés de TD
-
-- TD n° 1 : ... à venir ...
-<!-- - TD n° 1 : [Diagramme de classes](TD/NomTD.pdf) -->
-
-
-
-## Enoncés de TP
-
-- TP n° 1 : ... à venir ...
-<!-- - TP n° 1 : [Diagramme de classes](TP/NomTP.pdf) -->
-
-
-
 
 
 
