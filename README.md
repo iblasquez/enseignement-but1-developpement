@@ -35,6 +35,12 @@ Vous trouverez dans le dépôt [https://github.com/iblasquez/tuto_ModelisationUM
 - **S'entraîner de manière ludique à modéliser à l'aide d'UML...**  
 [**UML PICTIONARY® : une phrase en un diagramme UML**](http://people.irisa.fr/Francois.Schwarzentruber/mit2_cvfp_2012/uml_pictionary_cards.zip)   (jeu créé par l'équipe de JM. Jezequel à l'IRISA Rennes)
 
+- **Cours en ligne Java de [José Paumard](https://twitter.com/JosePaumard)** sur sa [chaine youtube Cours-en-ligne](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw)  
+Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suivantes :  
+[**T2 - Introduction à Java**](https://www.youtube.com/c/coursenlignejava/playlists?view=50&sort=dd&shelf_id=3),  
+[**T2 - Accès aux fichiers Java**](https://www.youtube.com/c/coursenlignejava/playlists?view=50&shelf_id=5)  
+[**API Collection**](https://www.youtube.com/playlist?list=PLzzeuFUy_CngUL4wcmpV4pmMJZnxUZt-_) - Attention il n'est pas prévu d'aborder les streams en BUT1 ;-)
+
 
 
 
