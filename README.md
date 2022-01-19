@@ -22,6 +22,7 @@ Les cours Java sont disponible sur Moodle à l'adresse suivante : ...
 
 - [Introduction à la Modélisation par Objets : UML à la rescousse !](./cours/1_IntroductionModelisationObjet_UML.pdf)  
 - [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](./cours/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)  
+- [Diagrammes de classes](./cours/3_DiagrammesDeClasses.pdf)  
 - ... la suite à venir ....
  
 
