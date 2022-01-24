@@ -27,7 +27,8 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 
 ### R2.01 : Support de cours relatifs à la programmation orientée objet avec java
 
-- Les cours Java sont disponible à l'adresse suivante : ...
+- Les cours Java sont disponible à l'adresse suivante : https://www.onete.net/teaching.html
+-
 
 
 
