@@ -20,7 +20,8 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 
 - [Introduction à la Modélisation par Objets : UML à la rescousse !](./cours/1_IntroductionModelisationObjet_UML.pdf)  
 - [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](./cours/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)  
-- [Diagrammes de classes](./cours/3_DiagrammesDeClasses.pdf)  
+- [Diagrammes de classes](./cours/3_DiagrammesDeClasses.pdf)
+- [Introduction au gestionnaire de versions décentralisé (git)](./cours/4_GestionnaireDeVersion_Git.pdf)    
 - ... la suite à venir ....
 
 
@@ -28,7 +29,7 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 ### R2.01 : Support de cours relatifs à la programmation orientée objet avec java
 
 - Les cours Java sont disponible à l'adresse suivante : https://www.onete.net/teaching.html
--
+
 
 
 
