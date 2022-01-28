@@ -21,8 +21,8 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 - [Introduction à la Modélisation par Objets : UML à la rescousse !](./cours/1_IntroductionModelisationObjet_UML.pdf)  
 - [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](./cours/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)  
 - [Diagrammes de classes](./cours/3_DiagrammesDeClasses.pdf)
-- [Introduction au gestionnaire de versions décentralisé (git)](./cours/4_GestionnaireDeVersion_Git.pdf)    
-- ... la suite à venir ....
+ 
+- ...  enseignement en cours, la suite à venir ....
 
 
 
@@ -41,7 +41,8 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 
 
 ### R2.03 : Support de cours relatifs à la qualité logicielle
- 
+
+- [Introduction à git : un logiciel de gestion de versions décentralisé (DVCS)](./cours/4_GestionnaireDeVersion_Git.pdf)  
 - ...  à venir ....
 
 ## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
@@ -50,10 +51,9 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 
 ## Enoncés de TD <a id="td"></a>
 
-- TD n° 1 : ... à venir ...
-<!-- - TD n° 1 : [Diagramme de classes](TD/NomTD.pdf) -->
+- TD n° 1 : [Introduction au diagramme de classes & premiers pas en java](TD/Dev_TD_IntroDiagrammeClasses.pdf)
 
-
+- ...  enseignement en cours, la suite à venir ....
 
 ## Enoncés de TP <a id="tp"></a>
 
