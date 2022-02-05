@@ -52,11 +52,13 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 
 ## Enoncés de TD <a id="td"></a>
 
-- TD n° 1 : [Introduction au diagramme de classes & premiers pas en java](TD/Dev_TD_IntroDiagrammeClasses.pdf)
+- TD n° 1 : [Introduction au diagramme de classes & premiers pas en java](./TD/Dev_TD_IntroDiagrammeClasses.pdf)
 
 - ...  enseignement en cours, la suite à venir ....
 
 ## Enoncés de TP <a id="tp"></a>
+
+
 
 
 - **Pré-requis** : **Installation d'un JDK dans votre environnement de développement**
@@ -70,8 +72,9 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 
 
 
-- TP n° 1 : ... à venir ...
-<!-- - TP n° 1 : [Diagramme de classes](TP/NomTP.pdf) -->
+- TP n° 1 : [Premiers pas en Java à l'aide de l'IDE Eclipse](./TP/Dev_TP_PremierPas_Java_Eclipse.pdf)
+
+- ...  enseignement en cours, la suite à venir ....
 
 
 ## Ressources complémentaires <a id="ressources"></a>
