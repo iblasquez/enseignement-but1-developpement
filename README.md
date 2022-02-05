@@ -43,6 +43,7 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 ### R2.03 : Support de cours relatifs à la qualité logicielle
 
 - [Introduction à git : un logiciel de gestion de versions décentralisé (DVCS)](./cours/4_GestionnaireDeVersion_Git.pdf)  
+- [Sensibilisation aux bonnes pratiques de programmation](./cours/5_QualiteLogicielle_CleanCode.pdf)
 - ...  à venir ....
 
 ## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
