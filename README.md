@@ -22,9 +22,6 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 - [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](./cours/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)  
 - [Diagrammes de classes](./cours/3_DiagrammesDeClasses.pdf)  
 
-
-6_Tests
- 
 - ...  enseignement en cours, la suite à venir ....
 
 
