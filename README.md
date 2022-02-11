@@ -54,6 +54,8 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 
 - TD n° 1 : [Introduction au diagramme de classes & premiers pas en java](./TD/Dev_TD_IntroDiagrammeClasses.pdf)
 
+- TD n° 2 : [Typage & classes](./TD/Dev_TD__Typage_Classe.pdf)
+
 - ...  enseignement en cours, la suite à venir ....
 
 ## Enoncés de TP <a id="tp"></a>
@@ -73,6 +75,9 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 
 
 - TP n° 1 : [Premiers pas en Java à l'aide de l'IDE Eclipse](./TP/Dev_TP_PremierPas_Java_Eclipse.pdf)
+
+- TP n° 2 : [Un robot fortement typé ...](./TP/Dev_TP_Robot_Type.pdf)
+
 
 - ...  enseignement en cours, la suite à venir ....
 
