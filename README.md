@@ -55,7 +55,7 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 ## Enoncés de TD <a id="td"></a>
 
 - TD n° 1 : [Introduction au diagramme de classes & premiers pas en java](./TD/Dev_TD_IntroDiagrammeClasses.pdf)
-- TD n° 2 : [Typage & classes](./TD/Dev_TD_Typage_Classe.pdf)
+- TD n° 2 : [Diagramme de classes : Conception & Implémentation appliqué aux débuts de l'informatique moderne](./TD/Dev_TD_DiagrammeClasses_Robot.pdf)
 
 - ...  enseignement en cours, la suite à venir ....
 
