@@ -6,14 +6,14 @@ Support d'enseignement : bases de la conception orientée objet, bases de la pro
 
 Dans ce dépôt, vous trouverez les rubriques suivantes :
 
-- [Supports de cours](#cours)
-- [Aides mémoires (Cheat sheet)](#cheatsheet)  
+- [Supports de cours & vidéos](#cours)
 - [Enoncés TD](#td)  
 - [Enoncés TP](#tp)
+- [Aides mémoires (Cheat sheet)](#cheatsheet)  
 - [Ressources complémentaires](#ressources)  
 
 
-## Supports de cours <a id="cours"></a>
+## Supports de cours & vidéos <a id="cours"></a>
 
 
 ### R2.01 : Support de cours relatifs à la Conception Orientée Objet
@@ -35,9 +35,9 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 - ...  à venir ...
 
 
-### R2.01 : Vidéos utilisées pour les cours relatifs à la Programmation Orientée Objet en JAVA (pédagogie semi-inversée)
+### R2.01 : Vidéos utilisées pourla Programmation Orientée Objet Java (pédagogie semi-inversée)
 
-**Les vidéos utilisées pour (re)découvrir la POO en JAVA (en français) sont celles de la chaine youtube [Cours-en-ligne](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw) de [José Paumard](https://twitter.com/JosePaumard)**  
+**Les vidéos utilisées pour (re)découvrir la POO Java (en français) sont celles de la chaine youtube [Cours-en-ligne](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw) de [José Paumard](https://twitter.com/JosePaumard)**  
 
 Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suivantes :  
 [**Ecrire une première classe en Java**](https://www.youtube.com/playlist?list=PLzzeuFUy_CniXWmmdo8zmqo3bXdgy4aG8),  
@@ -50,16 +50,11 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 [**Type et compatibilité entre types**](https://www.youtube.com/playlist?list=PLzzeuFUy_Cnirn5sXqo2zsDReWymBRdK3),  
 [**API Collection**](https://www.youtube.com/playlist?list=PLzzeuFUy_CngUL4wcmpV4pmMJZnxUZt-_) 
 
-.
-
-## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
-
-* **Cheat sheet sur la syntaxe UML** : [cheatsheet.pdf](./ressources/cheatsheet_UML_Lou_Franco.pdf)
-
 ## Enoncés de TD <a id="td"></a>
 
 - TD n° 1 : [Introduction au diagramme de classes & premiers pas en java](./TD/Dev_TD_IntroDiagrammeClasses.pdf)
-- TD n° 2 : [Diagramme de classes : Conception & Implémentation appliqué aux débuts de l'informatique moderne](./TD/Dev_TD_DiagrammeClasses_Robot.pdf)
+- TD n° 2 : [Diagramme de classes : Conception & Implémentation appliqué aux débuts de l'informatique moderne](./TD/Dev_TD_DiagrammeClasses_Robot.pdf)  
+- TD n° 3 : [En route vers l'héritage](./TD/Dev_TD_IntroHeritage.pdf)
 
 - ...  enseignement en cours, la suite à venir ....
 
@@ -84,6 +79,11 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 
 
 - ...  enseignement en cours, la suite à venir ....
+
+
+## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
+
+* **Cheat sheet sur la syntaxe UML** : [cheatsheet.pdf](./ressources/cheatsheet_UML_Lou_Franco.pdf)
 
 
 ## Ressources complémentaires <a id="ressources"></a>
