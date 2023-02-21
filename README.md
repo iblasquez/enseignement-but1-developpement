@@ -53,8 +53,9 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 ## Enoncés de TD <a id="td"></a>
 
 - TD n° 1 : [Introduction au diagramme de classes & premiers pas en java](./TD/Dev_TD_IntroDiagrammeClasses.pdf)
-- TD n° 2 : [Diagramme de classes : Conception & Implémentation appliqué aux débuts de l'informatique moderne](./TD/Dev_TD_DiagrammeClasses_Robot.pdf)  
+- TD n° 2 : [Les débuts de l'informatique moderne : la classe ! (Conception & Implémentation d'un diagramme de classes simple)](./TD/Dev_TD_DiagrammeClasses_Robot.pdf)  
 - TD n° 3 : [En route vers l'héritage](./TD/Dev_TD_IntroHeritage.pdf)
+- TD n° 4 : [Héritage et polymorphisme aux pays des abeilles](./TD/Dev_TD_Heritage_Abeilles.pdf)
 
 - ...  enseignement en cours, la suite à venir ....
 
