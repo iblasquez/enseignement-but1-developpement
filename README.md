@@ -16,7 +16,7 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 ## Supports de cours <a id="cours"></a>
 
 
-### R2.01 : Support de cours relatifs à la conception orientée objet
+### R2.01 : Support de cours relatifs à la Conception Orientée Objet
 
 - [Introduction à la Modélisation par Objets : UML à la rescousse !](./cours/1_IntroductionModelisationObjet_UML.pdf)  
 - [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](./cours/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)  
@@ -26,27 +26,31 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 
 
 
-### R2.01 : Support de cours relatifs à la programmation orientée objet avec java
-
-- Les cours Java sont disponible à l'adresse suivante : https://www.onete.net/teaching.html
-
-
-
-
-- **Vidéos cours Java (en français) sur la chaine youtube [Cours-en-ligne](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw) de [José Paumard](https://twitter.com/JosePaumard)**  
-Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suivantes :  
-[**T2 - Introduction à Java**](https://www.youtube.com/c/coursenlignejava/playlists?view=50&sort=dd&shelf_id=3),  
-[**T2 - Accès aux fichiers Java**](https://www.youtube.com/c/coursenlignejava/playlists?view=50&shelf_id=5)  
-[**API Collection**](https://www.youtube.com/playlist?list=PLzzeuFUy_CngUL4wcmpV4pmMJZnxUZt-_) - Attention il n'est pas prévu d'aborder les streams en BUT1 ;-)
-
-
 ### R2.03 : Support de cours relatifs à la qualité logicielle
 
 - [Introduction à git : un logiciel de gestion de versions décentralisé (DVCS)](./cours/4_GestionnaireDeVersion_Git.pdf)  
 - [Sensibilisation aux bonnes pratiques de programmation](./cours/5_QualiteLogicielle_CleanCode.pdf)
 - [Quid du Test dans un développement logiciel ?](./cours/6_Tests.pdf)
 
-- ...  à venir ....
+- ...  à venir ...
+
+
+### R2.01 : Vidéos utilisées pour les cours relatifs à la Programmation Orientée Objet en JAVA (pédagogie semi-inversée)
+
+**Les vidéos utilisées pour (re)découvrir la POO en JAVA (en français) sont celles de la chaine youtube [Cours-en-ligne](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw) de [José Paumard](https://twitter.com/JosePaumard)**  
+
+Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suivantes :  
+[**Ecrire une première classe en Java**](https://www.youtube.com/playlist?list=PLzzeuFUy_CniXWmmdo8zmqo3bXdgy4aG8),  
+[**Structure d'une classe**](https://www.youtube.com/playlist?list=PLzzeuFUy_Cnh_jAwFXkYMjRd9wYhObqAL),  
+[**Classes Object et String**](https://www.youtube.com/playlist?list=PLzzeuFUy_CnhW4RoeaQ36pZ5tgoK5lxr7),   
+[**Constructeur d’objet**](https://www.youtube.com/playlist?list=PLzzeuFUy_Cni3_xF9bl5oNDvrc757-4ih),  
+[**Programmation Objet : Encapsulation, Héritage et Polymorphisme en Programmation Objet**](https://www.youtube.com/playlist?list=PLzzeuFUy_CnjZpKCGfQ9HpJFxkqGeGFO0),  
+[**Classes, classes abstraites et interfaces**](https://www.youtube.com/playlist?list=PLzzeuFUy_CniTo0Pm8Tdh7MVVYhF32fdx),  
+[**Java Beans, énumérations et records**](https://www.youtube.com/playlist?list=PLzzeuFUy_Cnhqiu6--3bHYzJxKl7P3Cu1),  
+[**Type et compatibilité entre types**](https://www.youtube.com/playlist?list=PLzzeuFUy_Cnirn5sXqo2zsDReWymBRdK3),  
+[**API Collection**](https://www.youtube.com/playlist?list=PLzzeuFUy_CngUL4wcmpV4pmMJZnxUZt-_) 
+
+.
 
 ## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
 
