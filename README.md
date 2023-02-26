@@ -22,20 +22,15 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 - [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](./cours/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)  
 - [Diagrammes de classes](./cours/3_DiagrammesDeClasses.pdf)  
 
-- ...  enseignement en cours, la suite à venir ....
-
-
 
 ### R2.03 : Support de cours relatifs à la qualité logicielle
 
-- [Introduction à git : un logiciel de gestion de versions décentralisé (DVCS)](./cours/4_GestionnaireDeVersion_Git.pdf)  
-- [Sensibilisation aux bonnes pratiques de programmation](./cours/5_QualiteLogicielle_CleanCode.pdf)
+- [Introduction à git : un logiciel de gestion de versions décentralisé (DVCS)](./cours/5_GestionnaireDeVersion_Git.pdf)  
+- [Sensibilisation aux bonnes pratiques de programmation](./cours/4_QualiteLogicielle_CleanCode.pdf)
 - [Quid du Test dans un développement logiciel ?](./cours/6_Tests.pdf)
 
-- ...  à venir ...
 
-
-### R2.01 : Vidéos utilisées pourla Programmation Orientée Objet Java (pédagogie semi-inversée)
+### R2.01 : Vidéos utilisées pour la Programmation Orientée Objet Java (pédagogie semi-inversée)
 
 **Les vidéos utilisées pour (re)découvrir la POO Java (en français) sont celles de la chaine youtube [Cours-en-ligne](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw) de [José Paumard](https://twitter.com/JosePaumard)**  
 
@@ -85,6 +80,8 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 ## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
 
 * **Cheat sheet sur la syntaxe UML** : [cheatsheet.pdf](./ressources/cheatsheet_UML_Lou_Franco.pdf)
+*  **Brève introduction à git et Github** : [Github Starter Course](https://github.com/education/github-starter-course)
+*  [**Git Command Explorer**](https://gitexplorer.com)
 
 
 ## Ressources complémentaires <a id="ressources"></a>
