@@ -76,12 +76,16 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 
 - ...  enseignement en cours, la suite à venir ....
 
+- **Pour les plus rapides (facultatif) :**
+	- Complément du TP sur les abeilles : [Simulation de la vie d’une ruche](./TP/Dev_Complement_Abeilles_Ruche.pdf)
+
 
 ## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
 
 * **Cheat sheet sur la syntaxe UML** : [cheatsheet.pdf](./ressources/cheatsheet_UML_Lou_Franco.pdf)
 *  **Brève introduction à git et Github** : [Github Starter Course](https://github.com/education/github-starter-course)
 *  [**Git Command Explorer**](https://gitexplorer.com)
+*  [**GitKraken Client Cheat Sheeet**](https://www.gitkraken.com/pdfs/gitkraken-git-gui-cheat-sheet)
 
 
 ## Ressources complémentaires <a id="ressources"></a>
