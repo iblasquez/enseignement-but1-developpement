@@ -71,7 +71,8 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 
 
 - TP n° 1 : [Premiers pas en Java à l'aide de l'IDE Eclipse](./TP/Dev_TP_PremierPas_Java_Eclipse.pdf)  
-- TP n° 2 : [Un robot fortement typé](./TP/Dev_TP_Robot_Type.pdf)  
+- TP n° 2 : [Un robot fortement typé](./TP/Dev_TP_Robot_Type.pdf)    
+- TP n° 3 : [Personnaliser son environnement de développement (Plant UML) - Jouer avec les pionniers de l'informatique moderne (equals & hashCode) et faire un petit tour dans le Far-West (héritage)](./TP/Dev_TP_RetroConception_Computer_FarWest.pdf)
 
 
 - ...  enseignement en cours, la suite à venir ....
