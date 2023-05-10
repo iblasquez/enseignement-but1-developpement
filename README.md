@@ -77,6 +77,8 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 
 - ...  enseignement en cours, la suite à venir ....
 
+- [Dernière bataille : Retour vers le projet warcardgame et premiers pas avec AssertJ](./TP/Dev_TP_DerniereBataille.pdf)
+
 - **Pour les plus rapides (facultatif) :**
 	- Complément du TP sur les abeilles : [Simulation de la vie d’une ruche](./TP/Dev_Complement_Abeilles_Ruche.pdf)
 
