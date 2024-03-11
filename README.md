@@ -21,6 +21,7 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 - [Introduction à la Modélisation par Objets : UML à la rescousse !](./cours/1_IntroductionModelisationObjet_UML.pdf)  
 - [Introduction à la Modélisation par Objets : A la découverte des objets et des classes](./cours/2_IntroductionModelisationObjet_DecouverteClassesObjet.pdf)  
 - [Diagrammes de classes](./cours/3_DiagrammesDeClasses.pdf)  
+- [Diagrammes de séquence et un zeste de diagrammes de cas d'utilisation (UC)](./cours/7_DiagrammesDeSequence_DiagrammeUC.pdf)
 
 
 ### R2.03 : Support de cours relatifs à la qualité logicielle
