@@ -82,6 +82,7 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 
 - **Pour les plus rapides (facultatif) :**
 	- Complément du TP sur les abeilles : [Simulation de la vie d’une ruche](./TP/Dev_Complement_Abeilles_Ruche.pdf)
+	- [Découverte et prise en main de l’API fluent AssertJ](./TP/Dev_PriseEnMain_AssertJ.pdf)
 
 
 ## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
