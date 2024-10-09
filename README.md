@@ -52,8 +52,10 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 - TD n° 2 : [Les débuts de l'informatique moderne : la classe ! (Conception & Implémentation d'un diagramme de classes simple)](./TD/Dev_TD_DiagrammeClasses_Robot.pdf)  
 - TD n° 3 : [En route vers l'héritage](./TD/Dev_TD_IntroHeritage.pdf)
 - TD n° 4 : [Héritage et polymorphisme aux pays des abeilles](./TD/Dev_TD_Heritage_Abeilles.pdf)
-
-- ...  enseignement en cours, la suite à venir ....
+- TD n° 5 : [A la découverte des interfaces](./TD/Dev_TD_Interface_Decouverte.pdf)
+- TD n° 6 : [Trier des collections en réalisant des interfaces du JDK](./TD/Dev_TD_Collections_InterfaceJDK.pdf)
+- TD n° 7 : [Introduction au diagramme de séquences](./TD/Dev_TD_DiagrammeSequence.pdf)
+- TD n° 8 : [Des tests a posteriori & Mise en place architecture MVC](./TD/Dev_TD_Tests_MiseEnPlaceMVC.pdf)
 
 ## Enoncés de TP <a id="tp"></a>
 
