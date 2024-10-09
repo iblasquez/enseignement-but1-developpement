@@ -73,18 +73,25 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 
 
 
-- TP n° 1 : [Premiers pas en Java à l'aide de l'IDE Eclipse](./TP/Dev_TP_PremierPas_Java_Eclipse.pdf)  
-- TP n° 2 : [Un robot fortement typé](./TP/Dev_TP_Robot_Type.pdf)    
-- TP n° 3 : [Personnaliser son environnement de développement (Plant UML) - Jouer avec les pionniers de l'informatique moderne (equals & hashCode) et faire un petit tour dans le Far-West (héritage)](./TP/Dev_TP_RetroConception_Computer_FarWest.pdf)
+- TP n° 1 (R2.01)  : [Premiers pas en Java à l'aide de l'IDE Eclipse](./TP/Dev_TP_PremierPas_Java_Eclipse.pdf)  
+- TP n° 2 (R2.01) : [Un robot fortement typé](./TP/Dev_TP_Robot_Type.pdf)    
+- TP n° 3 (R2.01) : [Personnaliser son environnement de développement (Plant UML) - Jouer avec les pionniers de l'informatique moderne (equals & hashCode) et faire un petit tour dans le Far-West (héritage)](./TP/Dev_TP_RetroConception_Computer_FarWest.pdf)
+- TP n° 4 (R2.01 & R2.03) : [Découverte de l’héritage & du polymorphisme avec les abeilles - Introduction à la qualité de code](./TP/Dev_TP_Heritage_IntroQualite.pdf)
+	- **Pour les plus rapides (facultatif) :**
+		- Complément du TP sur les abeilles : [Simulation de la vie d’une ruche](./TP/Dev_Complement_Abeilles_Ruche.pdf)
+		- [Découverte et prise en main de l’API fluent AssertJ](./TP/Dev_PriseEnMain_AssertJ.pdf)
+
+- TP n° 5 (R2.01) : [Pas de jeu sans carte ! (enrichissons nos énumérations avec un peu d’unicode)](./TP/Dev_TP_Card_AGL.pdf) 
+- TP n° 6 (R2.01) : [Implémenter des interfaces à partir d’un diagramme de classes simple : rendez-vous au zoo](./TP/Dev_TP_Interface_Zoo.pdf) 
+- TP n° 7 (R2.01 & R2.03) : [Introduction aux exceptions & Apprendre à versionner un projet (Maven sous Eclipse)](./TP/Dev_TP_Exceptions_Maven_Git_versionGithub.pdf) 
+
 
 
 - ...  enseignement en cours, la suite à venir ....
 
 - [Dernière bataille : Retour vers le projet warcardgame et premiers pas avec AssertJ](./TP/Dev_TP_DerniereBataille.pdf)
 
-- **Pour les plus rapides (facultatif) :**
-	- Complément du TP sur les abeilles : [Simulation de la vie d’une ruche](./TP/Dev_Complement_Abeilles_Ruche.pdf)
-	- [Découverte et prise en main de l’API fluent AssertJ](./TP/Dev_PriseEnMain_AssertJ.pdf)
+
 
 
 ## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
