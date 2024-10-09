@@ -57,7 +57,7 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 - TD n° 7 : [Introduction au diagramme de séquences](./TD/Dev_TD_DiagrammeSequence.pdf)
 - TD n° 8 : [Des tests a posteriori & Mise en place architecture MVC](./TD/Dev_TD_Tests_MiseEnPlaceMVC.pdf)
 
-## Enoncés de TP <a id="tp"></a>
+## Enoncés de TP (R2.01 & R2.03) <a id="tp"></a>
 
 
 
@@ -82,14 +82,19 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 		- [Découverte et prise en main de l’API fluent AssertJ](./TP/Dev_PriseEnMain_AssertJ.pdf)
 
 - TP n° 5 (R2.01) : [Pas de jeu sans carte ! (enrichissons nos énumérations avec un peu d’unicode)](./TP/Dev_TP_Card_AGL.pdf) 
+- TP n° 5 bis (R2.03) : [Prise en main de git en ligne de commande](./TP/Dev_TP_Git_PriseEnMain.pdf) 
 - TP n° 6 (R2.01) : [Implémenter des interfaces à partir d’un diagramme de classes simple : rendez-vous au zoo](./TP/Dev_TP_Interface_Zoo.pdf) 
+- TP n° 6 bis (R2.03) : [Premiers tests unitaires avec JUnit](./TP/Dev_TP_Intro_TestUnitaire_JUnit.pdf) 
 - TP n° 7 (R2.01 & R2.03) : [Introduction aux exceptions & Apprendre à versionner un projet (Maven sous Eclipse)](./TP/Dev_TP_Exceptions_Maven_Git_versionGithub.pdf) 
-
-
-
-- ...  enseignement en cours, la suite à venir ....
-
-- [Dernière bataille : Retour vers le projet warcardgame et premiers pas avec AssertJ](./TP/Dev_TP_DerniereBataille.pdf)
+- TP n° 8 (R2.01) : [Extension du projet canard & Diagramme de séquence](./TP/Dev_TP_ExtensionProjetCanard_DiagrammeSequence.pdf)
+- TP n° 8 bis (R2.03) : [Un projet par workspace - Mise en place du socle technique de la SAE](./TP/Dev_TP_Worksapce_PrepaSAE.pdf)
+- TP n° 9 (R2.01) : [Trier des collections en réalisant des interfaces du JDK](./TP/Dev_TP_Interface_Collection_Comparateur.pdf) 
+- TP n° 9 bis (R2.03) : [Des branches de chocolat exceptionnelles !](./TP/Dev_TP_BranchesChocolatExceptionnelles.pdf)   
+- TP n° 10 (R2.01) : [Faire un choix de design (Tableau vs HashMap)](./TP/Dev_TP_ChoixDesign_Tab2D_HashMap.pdf) 
+- TP n° 10 bis (R2.03) : [Tests unitaires & Débogueur](./TP/Dev_TP_Test_Debugger.pdf)  
+- TP n° 11 (R2.01) : [Dernière bataille : Retour vers le projet warcardgame et premiers pas avec AssertJ](./TP/Dev_TP_DerniereBataille.pdf)
+- TP n° 12 (R2.03) : [Aide à la SAE : Exception métier, Mob-Programming & Exemples](./TP/Dev_TP_AideSAE_ExceptionMetier_Mob_Exemples.pdf)
+- TP n° 12 (R2.01) : [Une pause-café bien méritée pour terminer!](./TP/Dev_TP_PauseCafeBienMeritee.pdf)
 
 
 
