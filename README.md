@@ -1,8 +1,7 @@
-#  Réaliser un developpement d'application  
+# Réaliser un developpement d'application  
 BUT1 : Développement Orienté Objet (R2.01) & Qualité (R2.03)
 ---
 Support d'enseignement : bases de la conception orientée objet, bases de la programmation orientée objet avec Java, introduction à la notion de tests,...
-
 
 Dans ce dépôt, vous trouverez les rubriques suivantes :
 
@@ -12,9 +11,7 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 - [Aides mémoires (Cheat sheet)](#cheatsheet)  
 - [Ressources complémentaires](#ressources)  
 
-
 ## Supports de cours & vidéos <a id="cours"></a>
-
 
 ### R2.01 : Support de cours relatifs à la Conception Orientée Objet
 
@@ -23,13 +20,15 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 - [Diagrammes de classes](./cours/3_DiagrammesDeClasses.pdf)  
 - [Diagrammes de séquence et un zeste de diagrammes de cas d'utilisation (UC)](./cours/7_DiagrammesDeSequence_DiagrammeUC.pdf)
 
+### R2.01 : Support de cours relatifs au langage Java
+
+ - [Introduction au langage Java](./cours/1_IntroductionJava.pdf)  
 
 ### R2.03 : Support de cours relatifs à la qualité logicielle
 
 - [Introduction à git : un logiciel de gestion de versions décentralisé (DVCS)](./cours/5_GestionnaireDeVersion_Git.pdf)  
 - [Sensibilisation aux bonnes pratiques de programmation](./cours/4_QualiteLogicielle_CleanCode.pdf)
 - [Quid du Test dans un développement logiciel ?](./cours/6_Tests.pdf)
-
 
 ### R2.01 : Vidéos utilisées pour la Programmation Orientée Objet Java (pédagogie semi-inversée)
 
@@ -59,9 +58,6 @@ Pour les enseignements de BUT1, focalisez-vous uniquement sur les playlists suiv
 
 ## Enoncés de TP (R2.01 & R2.03) <a id="tp"></a>
 
-
-
-
 - **Pré-requis** : **Installation d'un JDK dans votre environnement de développement**
 	- **Avez-vous une version du JDK d'installer sur votre machine ?**  
 Pour en savoir plus, regardez la vidéo suivante [Installer un poste de développement Java](https://www.youtube.com/watch?v=Kd8UC18rw6M)   
@@ -70,8 +66,6 @@ Vous pouvez également récupérer des versions du jdk sur [jdk.java.net](https:
 
 	- Que se passe-t-il si vous exécutez la commande "**java - version**" dans une invite de commande ?  
 La version du jdk qui a été paramétré dans votre variable d'environnement JAVA_HOME doit s'afficher. Si ce n'est pas le cas, rendez-vous [ici](https://github.com/iblasquez/Back2Basics_Developpement) et plus particulièrement le lien [wikiHow to Set Java Home](https://www.wikihow.com/Set-Java-Home).
-
-
 
 - TP n° 1 (R2.01)  : [Premiers pas en Java à l'aide de l'IDE Eclipse](./TP/Dev_TP_PremierPas_Java_Eclipse.pdf)  
 - TP n° 2 (R2.01) : [Un robot fortement typé](./TP/Dev_TP_Robot_Type.pdf)    
@@ -96,9 +90,6 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 - TP n° 12 (R2.03) : [Aide à la SAE : Exception métier, Mob-Programming & Exemples](./TP/Dev_TP_AideSAE_ExceptionMetier_Mob_Exemples.pdf)
 - TP n° 12 (R2.01) : [Une pause-café bien méritée pour terminer!](./TP/Dev_TP_PauseCafeBienMeritee.pdf)
 
-
-
-
 ## Aides mémoires (Cheat sheet)<a id="cheatsheet"></a>
 
 * **Cheat sheet sur la syntaxe UML** : [cheatsheet.pdf](./ressources/cheatsheet_UML_Lou_Franco.pdf)
@@ -106,24 +97,16 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 *  [**Git Command Explorer**](https://gitexplorer.com)
 *  [**GitKraken Client Cheat Sheeet**](https://www.gitkraken.com/pdfs/gitkraken-git-gui-cheat-sheet)
 
-
 ## Ressources complémentaires <a id="ressources"></a>
-
 
 * **_UML@Classroom_** de Martina Seidl, Marion Scholz, Christian Huemer & Gerti Kappel  
 notamment la [rubrique Material(diapos additionelles)](http://www.uml.ac.at/en/lernen) du site web ressources [uml.ac.at](http://www.uml.ac.at)
 
-
 - **Prise en main d'outils pour la génération de diagrammes UML** :  
 Vous trouverez dans le dépôt [https://github.com/iblasquez/tuto_ModelisationUML](https://github.com/iblasquez/tuto_ModelisationUML), un ensemble de tutoriels et de liens autour d'outils permettant la génération de diagrammes UML.
 
-
 - **S'entraîner de manière ludique à modéliser à l'aide d'UML...**  
 [**UML PICTIONARY® : une phrase en un diagramme UML**](http://people.irisa.fr/Francois.Schwarzentruber/mit2_cvfp_2012/uml_pictionary_cards.zip)   (jeu créé par l'équipe de JM. Jezequel à l'IRISA Rennes)
-
-
-
-
 
 ## On en discute ?
 Pour les discussions, c'est par [là](https://github.com/iblasquez/enseignement-but1-developpement/issues)  
@@ -141,4 +124,3 @@ Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions
 En savoir plus sur [les licences Creative Commons](https://creativecommons.org/licenses/?lang=fr-FR) ...
 
 Toutefois, toute personne enseignant au département Informatique de l'IUT du Limousin souhaitant utiliser ces documents doit demander une autorisation préalable :smile:
-
