@@ -1,6 +1,7 @@
 # Réaliser un developpement d'application  
 BUT1 : Développement Orienté Objet (R2.01) & Qualité (R2.03)
 ---
+
 Support d'enseignement : bases de la conception orientée objet, bases de la programmation orientée objet avec Java, introduction à la notion de tests,...
 
 Dans ce dépôt, vous trouverez les rubriques suivantes :
@@ -9,7 +10,9 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 - [Enoncés TD](#td)  
 - [Enoncés TP](#tp)
 - [Aides mémoires (Cheat sheet)](#cheatsheet)  
-- [Ressources complémentaires](#ressources)  
+- [Ressources complémentaires](#ressources) 
+
+***Séance P2.01 :*** *Au préalable, créez un compte GitHub avec votre adresse étudiante, personnalisez-le, puis rejoignez le programme GitHub Education pour accéder gratuitement à de nombreux logiciels. Suivez ce [tutoriel](https://github.com/iblasquez/tuto-portfolio-github) pour vous guider.*
 
 ## Supports de cours & vidéos <a id="cours"></a>
 
